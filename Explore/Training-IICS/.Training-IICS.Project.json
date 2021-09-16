@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "36Q101Jmj2kgtw3pw2TwUq",
+    "name" : "Training-IICS",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Project Training for all IICS courses.\nOne folder per Student, and you will have access to my folder for the correction",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
